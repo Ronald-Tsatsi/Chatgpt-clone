@@ -10,8 +10,8 @@ from django.utils import timezone
 
 # Create your views here.
 
-# openai_apikey = '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'
-openai_apikey = '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'
+
+openai_apikey = '' #input your api key here
 openai.api_key = openai_apikey
 
 # Implementing gpt 4
